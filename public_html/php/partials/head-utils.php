@@ -30,10 +30,12 @@
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.3.3/ui-bootstrap-tpls.min.js"></script>
 		<script src="angular/meow-app.js"></script>
 		<script src="angular/route-config.js"></script>
+		<script src="angular/directives/bootstrap-breakpoint.js"></script>
 		<script src="angular/controllers/donate-controller.js"></script>
 		<script src="angular/controllers/home-controller.js"></script>
 		<script src="angular/controllers/signup-controller.js"></script>
 		<script src="angular/controllers/treats-controller.js"></script>
+		<script src="angular/controllers/nav-controller.js"></script>
 
 
 		<title>MeowApp v1.5.0</title>
